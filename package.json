@@ -18,7 +18,7 @@
     "@reduxjs/toolkit": "^1.9.7",
     "@types/node": "^20.8.7",
     "@types/ol": "^7.0.0",
-    "@types/openlayers": "^4.6.19",
+    "@types/openlayers": "^4.6.21",
     "@types/react": "^18.2.30",
     "@types/react-dom": "^18.2.14",
     "@types/react-redux": "^7.1.28",
