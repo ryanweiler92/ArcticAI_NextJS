@@ -29,7 +29,7 @@
     "handlebars": "^4.7.7",
     "jose": "^4.14.6",
     "next": "^13.5.6",
-    "nodemailer": "^6.9.1",
+    "nodemailer": "^6.9.7",
     "ol": "^7.4.0",
     "ol-mapbox-style": "^10.6.0",
     "proj4": "^2.9.1",
@@ -44,7 +44,7 @@
     "uuid": "^9.0.1"
   },
   "devDependencies": {
-    "@types/nodemailer": "^6.4.7",
+    "@types/nodemailer": "^6.4.13",
     "@types/proj4": "^2.5.4",
     "@types/react-geocode": "^0.2.1",
     "@types/react-slick": "^0.23.10",
