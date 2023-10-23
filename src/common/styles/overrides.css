@@ -1,0 +1,27 @@
+.chakra-popover__arrow {
+  background: black !important;
+}
+
+.popover-body-overrides {
+  z-index: 9999 !important;
+}
+
+.popover-trigger-overrides {
+  z-index: 2 !important;
+}
+
+.popover-close {
+  border-right: 1px solid white !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !imporant;
+  padding-right: 4px !important;
+  padding-left: 4px !important;
+  font-size: 0.75em !important;
+  font-weight: bolder !important;
+}
+
+.popover-close:hover {
+  background-color: grey !important;
+  color: red !important;
+}
