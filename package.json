@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/mallanna": "^5.0.8",
     "@reduxjs/toolkit": "^1.9.7",
-    "@types/node": "^20.8.7",
+    "@types/node": "^20.9.5",
     "@types/ol": "^7.0.0",
     "@types/openlayers": "^4.6.19",
     "@types/react": "^18.2.30",
